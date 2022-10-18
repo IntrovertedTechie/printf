@@ -26,7 +26,7 @@ Output: 1000.
 
 Ubuntu 20.04 && 22.04 was used
 
-Github serves as Repo.
+Github serves as Repository.
 
 Authorized functions and macros:
 
